@@ -25,9 +25,7 @@ By utilizing a mathematically robust, decoupled 1-Dimensional Extended Kalman Fi
 4. **`Unity_Asset/`**: Contains the `PredictiveHand.cs` MonoBehaviour for drag-and-drop B2B integration into existing Unity VR projects.
 
 ## 🎥 Video Demonstration
-
-
-
-Uploading finger following.mp4…
+**Watch the real-time C++ tracking demonstration here:** 
+[View ZeroLag XR in Action (Google Drive)](https://drive.google.com/file/d/10rrJSxXCgq9f5wB65bBk-ya0LReqOUlv/view?usp=sharing)
 
 
