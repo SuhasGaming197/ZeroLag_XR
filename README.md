@@ -26,4 +26,8 @@ By utilizing a mathematically robust, decoupled 1-Dimensional Extended Kalman Fi
 
 ## 🎥 Video Demonstration
 
-*(Attach your screen recording here showing the lagging Red Box vs the real-time Predictive Green Box!)*
+
+
+Uploading finger following.mp4…
+
+
